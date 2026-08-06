@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Task 2 - Module that measures runtime of four parallel async comprehensions."""
+"""Task 2 - Module that measures runtime
+of four parallel async comprehensions.
+"""
 
 import asyncio
 import time
