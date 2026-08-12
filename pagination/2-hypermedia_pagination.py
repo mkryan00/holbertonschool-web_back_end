@@ -71,7 +71,7 @@ class Server:
             "page_size": page_size,
             "page": page,
             "data": data,
-            "next page": next_page,
-            "prev page": prev_page,
-            "total pages": total_pages
+            "next_page": next_page,
+            "prev_page": prev_page,
+            "total_pages": total_pages
         }
