@@ -1,2 +1,2 @@
 // Module 7 - Script to delete all documents matching a name in a collection.
-db.school.delete({ name: "Holberton school" })
+db.school.deleteMany({ name: "Holberton school" })
