@@ -1,0 +1,2 @@
+// Module 5 - Script to display number of documents in a collection.
+db.school.count()
