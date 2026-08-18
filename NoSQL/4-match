@@ -1,3 +1,2 @@
-// Module 4 - 
-// Script to list documents matching a name in a collection.
-db.school.findOne({ name: "Holberton school" })
+// Module 4 - Script to list documents matching a name in a collection.
+db.school.find({ name: "Holberton school" })
