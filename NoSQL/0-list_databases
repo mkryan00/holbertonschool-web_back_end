@@ -1,1 +1,2 @@
-show databases
+// Module 0 - Script to list all database in MongoDB
+show dbs
