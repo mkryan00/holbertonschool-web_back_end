@@ -3,5 +3,5 @@
 
 
 def list_all(mongo_collection):
-    """Return all docs from a MongoDB collection."""
+    """Returns all documents in a collection."""
     return list(mongo_collection.find())
